@@ -113,5 +113,3 @@ Changelog
 * Minor code optimizations
 * The package name has changed. Update import statements if you've been using the library before! 
 
-
-
